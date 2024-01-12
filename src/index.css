@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    /* font-family: fira code; */
+    /* font-family: 'Jost', sans-serif; */
+    font-family: 'Preahvihear', sans-serif;
+    /* font-family: 'Neucha', cursive; */
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+
+
+body {
+    background-color: #282C33;
+    color: white;
+}
+
+
+
+.btn-primary {
+    @apply border border-heading p-2 px-4 hover:bg-heading duration-300 w-fit
+}
+
