@@ -5,7 +5,7 @@ import ProjectCard from "../components/ProjectCard"
 
 const projects = [
     {
-        image: "https://aniket-kangane.vercel.app/event-prime.png",
+        image: "blob:https://vercel.com/f657a27e-6046-4b70-81fb-55e39712c727",
         techStack: ["REACT", "ExpressJs", "MongoDb", "NodeJs", "Stripe"],
         title: "Event-Prime clone",
         description: "event prime is a platform where companies can host events and sell tickets to customer",
@@ -13,7 +13,7 @@ const projects = [
         github: "https://github.com/Aniket897/event-prime-clone"
     },
     {
-        image: "https://aniket-kangane.vercel.app/halloween-shop.png",
+        image: "blob:https://vercel.com/54cc814d-a599-433b-b145-7398a43f0888",
         techStack: ["REACT", "TailwindCSS", "Readux-toolkit"],
         title: "halloween-shop clone",
         description: "halloween shop is a ecommerce website where cusomer get products related to halloween",
