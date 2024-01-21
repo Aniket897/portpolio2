@@ -15,7 +15,7 @@ const ContactBox = () => {
     return (
         <div className="border border-gray">
             <p className="font-bold p-3 border-b border-b-gray">Message me Here</p>
-            <div className="mt-5 flex flex-col gap-1">
+            <div className=" flex flex-col gap-1">
                 <a href="" target="_blank" className="flex items-center gap-1 p-3 cursor-pointer hover:text-heading duration-500"> <ion-icon name="logo-linkedin"></ion-icon> aniket kangane</a>
                 {EmailLink()}
             </div>

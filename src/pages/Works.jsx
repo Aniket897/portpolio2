@@ -5,6 +5,14 @@ import ProjectCard from "../components/ProjectCard"
 
 const projects = [
     {
+        image: "/pixelhero.png",
+        techStack: ["React", "Firebase", "Tailwindcss"],
+        title: "PixelHero",
+        description: "pixel hero is web app which is usefull for searching and downloading images",
+        live: "https://pixel-hero.vercel.app/",
+        github: "https://github.com/Aniket897/PixelHero"
+    },
+    {
         image: "/event-prime.png",
         techStack: ["REACT", "ExpressJs", "MongoDb", "NodeJs", "Stripe"],
         title: "Event-Prime clone",
@@ -27,7 +35,8 @@ const projects = [
         description: "bewkoof.com is a ecommerce website.",
         live: "https://joyful-truffle-91c4b3.netlify.app/",
         github: "https://github.com/Aniket897/bewakoof.com-clone"
-    }
+    },
+
 ]
 
 

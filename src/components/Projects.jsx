@@ -2,6 +2,14 @@ import ProjectCard from "./ProjectCard"
 
 const projects = [
     {
+        image: "/pixelhero.png",
+        techStack: ["React", "Firebase", "Tailwindcss"],
+        title: "PixelHero",
+        description: "pixel hero is web app which is usefull for searching and downloading images",
+        live: "https://pixel-hero.vercel.app/",
+        github: "https://github.com/Aniket897/PixelHero"
+    },
+    {
         image: "/event-prime.png",
         techStack: ["REACT", "ExpressJs", "MongoDb", "NodeJs", "Stripe"],
         title: "Event-Prime clone",
@@ -17,14 +25,7 @@ const projects = [
         live: "https://halloween-shop-clone.vercel.app/",
         github: "https://github.com/Aniket897/halloween-shop-clone"
     },
-    {
-        image: "https://d33wubrfki0l68.cloudfront.net/655640d339b93419b086ce8d/screenshot_2023-11-16-16-18-55-0000.png",
-        techStack: ["HTML", "CSS"],
-        title: "bewkoof.com clone",
-        description: "bewkoof.com is a ecommerce website.",
-        live: "https://joyful-truffle-91c4b3.netlify.app/",
-        github: "https://github.com/Aniket897/bewakoof.com-clone"
-    }
+
 ]
 
 

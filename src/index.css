@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;400;800;900&display=swap');
 
 
 @tailwind base;
@@ -12,7 +12,8 @@
 * {
     /* font-family: fira code; */
     /* font-family: 'Jost', sans-serif; */
-    font-family: 'Preahvihear', sans-serif;
+    /* font-family: 'Preahvihear', sans-serif; */
+    font-family: 'League Spartan', sans-serif;
     /* font-family: 'Neucha', cursive; */
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
 }

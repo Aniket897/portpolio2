@@ -9,7 +9,7 @@ const About = () => {
                 </div>
             </div>
             <div className=" mt-[50px] md:mt-[100px] flex items-center justify-between max-md:flex-col max-md:gap-[60px]">
-                <div className="md:w-[50%] flex flex-col gap-y-4">
+                <div className="md:w-[50%] flex flex-col gap-y-4 text-xl">
                     <p className=" text-gray">👋 Hello, i’m Aniket Kangane!</p>
 
                     <p className=" text-gray">a self-taught passionate FrontEnd developer from India. I've been building stuff on the 🌐 web since when I was in 10th standard, I've made countless projects and I also posses 🪄 magical powers of using react to build 🚀 delightful user interfaces.</p>

@@ -16,7 +16,7 @@ const Aboutme = () => {
         <div>
             <Nav title={"About-me"} des="who i am" />
             <div className="mt-[100px] flex items-center justify-between w-[70vw] mx-auto">
-                <div className="w-[50%] flex flex-col gap-y-4 text-gray">
+                <div className="w-[50%] flex flex-col gap-y-4 text-gray text-xl">
                     <p>👋 Hello, i’m Aniket!</p>
 
                     <p>a self-taught passionate FrontEnd developer from India. I've been building stuff on the 🌐 web since when I was in 10th standard, I've made countless projects and I also posses 🪄 magical powers of using react to build 🚀 delightful user interfaces.

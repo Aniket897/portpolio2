@@ -13,8 +13,8 @@ const Hero = () => {
     return (
         <div className=" w-[90vw] lg:w-[70vw] mx-auto flex mt-[50px] md:mt-[150px] max-md:flex-col items-center justify-between">
             <div className="md:w-[50%] flex flex-col gap-y-4" >
-                <p className="text-4xl font-extrabold">Aniket is a <span className="text-heading">web designer</span> and <span className="text-heading">front-end developer</span></p>
-                <p className="text-gray mt-3">He crafts responsive websites where technologies meet creativity</p>
+                <p className="text-5xl font-extrabold">Aniket is a <span className="text-heading">web designer</span> and <span className="text-heading">front-end developer</span></p>
+                <p className="text-gray mt-3 text-xl">He crafts responsive websites where technologies meet creativity</p>
                 {EmailLink()}
             </div>
             <div className="mt-[40px] md:mt-[-80px]">
